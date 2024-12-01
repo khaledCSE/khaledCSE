@@ -59,19 +59,17 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-trophy.vercel.app/?username=khaledCSE&theme=panda&no-frame=false&no-bg=true&margin-w=4)
 
-## My Projects
+## My Projects |
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
-  <a href="https://kloud-atlas.vercel.app/sign-in" target="_blank" style="text-decoration: none; color: inherit;">
-      <div style="border: 1px solid #ddd; padding: 5px; text-align: center; border-radius: 10px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://github.com/khaledCSE/kloud-atlas/raw/main/public/docs/dashboard.png?raw=true" alt="Project 1" style="width: 500px; height: 250px; object-fit: cover; border-radius: 10px;">
-        <h3 style="margin-top: 10px;">Kloud Atlas</h3>
-      </div>
-  </a>
-  <a href="https://yc-directory-blond.vercel.app/" target="_blank" style="text-decoration: none; color: inherit;">
-      <div style="border: 1px solid #ddd; padding: 5px; text-align: center; border-radius: 10px; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://github.com/khaledCSE/yc-directory/raw/main/public/cover.png?raw=true" alt="Project 1" style="width: 500px; height: 250px; object-fit: cover; border-radius: 10px;">
-        <h3 style="margin-top: 10px;">YC Directory</h3>
-      </div>
-  </a>
+<div align="left">
+    <table >
+     <tr>
+        <td><b>Kloud Atlas</b></td>
+        <td><b>YC Directory</b></td>
+     </tr>
+     <tr>
+       <td><a href="https://kloud-atlas.vercel.app/sign-in"><img src="https://github.com/khaledCSE/kloud-atlas/raw/main/public/docs/dashboard.png?raw=true" width="500" height="250"/></a></td>
+       <td><a href="https://yc-directory-blond.vercel.app/"><img src="https://github.com/khaledCSE/yc-directory/blob/main/public/cover.png?raw=true" width="500" height="250"/></a></td>
+       </tr>
+    </table>
 </div>
